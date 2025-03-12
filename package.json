@@ -1,0 +1,28 @@
+{
+  "name": "babetorn",
+  "version": "1.0.0",
+  "description": "A babel branch to torncity querys",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eloazy/babetorn.git"
+  },
+  "keywords": [
+    "torncity",
+    "ai",
+    "api"
+  ],
+  "type":"module",
+  "author": "BabelSystems",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eloazy/babetorn/issues"
+  },
+  "homepage": "https://github.com/Eloazy/babetorn#readme",
+  "dependencies": {
+    "@inquirer/prompts": "^7.3.3"
+  }
+}
