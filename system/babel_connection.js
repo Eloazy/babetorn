@@ -1,6 +1,6 @@
 export default async function(query) {
 	try {
-		const response = await fetch('http://localhost:1025/api/branch/babelaife', {
+		const response = await fetch('http://localhost:1025/api/branch/babetorn', {
 			method: 'POST',
 			headers: {
 				'Content-Type':'application/json'
