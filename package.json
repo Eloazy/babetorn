@@ -1,6 +1,6 @@
 {
   "name": "babetorn",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A babel branch to torncity querys",
   "main": "index.js",
   "scripts": {
